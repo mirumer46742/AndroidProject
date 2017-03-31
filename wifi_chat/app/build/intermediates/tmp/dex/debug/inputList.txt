@@ -1,0 +1,6 @@
+G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\classes\debug
+G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-775bc5e6422ae58d0f9ee4b15bedc63fc59a8a7a.jar
+G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\libGoogleAnalytics-cfeb54e2e35d5327801eae3dfdd930bbda332dd4.jar
+G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-27fb3834656d2c8bc4c0305d5328777497e269e6.jar
+G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\classes-c2007fe8ea984bfe5d6d935581b355ee5b878092.jar
+G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\classes-6b329d1c661d64853af3382fb40de56e2dfd3538.jar

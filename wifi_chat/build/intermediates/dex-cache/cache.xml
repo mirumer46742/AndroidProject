@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\classes-c2007fe8ea984bfe5d6d935581b355ee5b878092.jar" />
+    </item>
+    <item
+        jar="G:\Projects\wifi-direct-chat-master2nd\app\libs\libGoogleAnalytics.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d0254fe638021ff2ae4fe5bd53c2937006fdab5">
+        <dex dex="G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\libGoogleAnalytics-cfeb54e2e35d5327801eae3dfdd930bbda332dd4.jar" />
+    </item>
+    <item
+        jar="G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\classes-6b329d1c661d64853af3382fb40de56e2dfd3538.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\build\intermediates\pre-dexed\debug\classes-0788c3fe8a2ca22e3b2237a7e3cb16b8bbbac9f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-775bc5e6422ae58d0f9ee4b15bedc63fc59a8a7a.jar" />
+    </item>
+    <item
+        jar="G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="G:\Projects\wifi-direct-chat-master2nd\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-27fb3834656d2c8bc4c0305d5328777497e269e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\build\intermediates\pre-dexed\debug\classes-5811104e0d547d5a52340836171cb179c362b4f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\libs\libGoogleAnalytics.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d0254fe638021ff2ae4fe5bd53c2937006fdab5">
+        <dex dex="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\build\intermediates\pre-dexed\debug\libGoogleAnalytics-88d5fcc3552dc0e4b5aa5e56ce659b874ba9e8cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Administrator\SHAREit\Files\wifi-direct-chat-master1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-81f9d87e125c816d6b370b5849b7c97eac1bf70d.jar" />
+    </item>
+
+</items>

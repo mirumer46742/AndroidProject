@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#11000000</color>
+    <color name="row_background">#ff00ffff</color>
+    <color name="my_msg_background">#32c6ba</color>
+    <color name="in_msg_background">#3cddd0</color>
+    <color name="red">#F44336</color>
+    <color name="green">#55e155</color>
+    <color name="dark_red">#C3352B</color>
+    <color name="gray">#607D8B</color>
+    <color name="soothing_blue">#0083BF</color>
+    <color name="dark_blue">#005A8A</color>
+    <color name="btnstart">#ffffff</color>
+    <color name="btnend">#ffffff</color>
+    <color name="btnpress">#cecece</color>
+    <color name="bg">#003366</color>
+    <color name="btn">#6F6FB3</color>
+    <color name = "facebook">#29a79d</color>
+    <color name = "newcolor">#29a79d</color>
+    <color name="imagesendbutton">#FF28D5C7</color>
+    <color name="inmessage">#3cddd0</color>
+    <color name="outmessage">#32c6ba</color>
+    <color name="Devicename">#ff1ca793</color>
+    <color name="wgreen">#FFABCE9E</color>
+</resources>
